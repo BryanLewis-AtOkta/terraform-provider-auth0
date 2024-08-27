@@ -5,6 +5,7 @@ run:
 linters:
   disable-all: true
   enable:
+    - something
     - unused
     - gofmt
     - staticcheck
