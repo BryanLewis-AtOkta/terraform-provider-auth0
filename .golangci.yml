@@ -5,6 +5,7 @@ run:
 linters:
   disable-all: true
   enable:
+    - test2
     - something
     - unused
     - gofmt
