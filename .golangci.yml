@@ -5,6 +5,7 @@ run:
 linters:
   disable-all: true
   enable:
+    - test4
     - test3
     - test2
     - something
